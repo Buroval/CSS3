@@ -1,0 +1,90 @@
+/*.flex-container {
+    display: inline;
+    background-color: #f1f1f1;
+    margin: 10px;
+    padding: 20px;
+    font-size: 30px;
+    
+   
+        
+    
+}
+*/
+
+nav { 
+background-color: black;
+
+padding-top: 0%;
+
+
+
+}
+
+nav :hover :active{
+    background-color: green;
+}
+
+
+
+
+ul {
+    
+   margin: 0;
+   padding: 0;
+   overflow: hidden;
+   padding:0;
+   margin: 0;
+   overflow: hidden;
+   position: relative;
+   width: 160px;
+   padding: 60px;
+   border: 10px;
+   list-style-type: none;
+   display: inline;
+}
+
+li {
+   display: inline;
+    padding: 14px 16px;
+    color: white;
+    font-weight: bold;
+    text-align: center; 
+    padding: 3%;
+  
+    
+}
+
+h1 {
+   border: 10px;
+    padding-top: 0px;
+
+}
+
+/*
+:hover li {
+background-color: green;
+
+}*/
+
+
+div {
+    background-color: beige;
+    padding-left: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+
+li #Home :hover {
+    background-color: #555;
+    color: rgb(13, 226, 95);
+  }
+
+  P {
+    color: blue;
+    font-style: italic;
+    text-align: justify;
+    font-weight: bold;
+    font-family: "ubuntu";
+    font-size: 18px;
+
