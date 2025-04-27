@@ -50,6 +50,7 @@ li {
     font-weight: bold;
     text-align: center; 
     padding: 3%;
+    float: auto;
   
     
 }
@@ -72,12 +73,14 @@ div {
     padding-left: 10px;
     padding-top: 20px;
     padding-bottom: 20px;
+    display: ;
 }
 
 
 li #Home :hover {
     background-color: #555;
     color: rgb(13, 226, 95);
+    float: left;
   }
 
   P {
@@ -88,3 +91,9 @@ li #Home :hover {
     font-family: "ubuntu";
     font-size: 18px;
 
+  }
+
+  img {
+   width: 560px;
+ 
+  }
